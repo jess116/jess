@@ -1,0 +1,24 @@
+h1 {
+  color: green;
+font-size:35px;
+font-style:italic;
+}
+h2 {
+  color: blue;
+  font-size:30px;
+  font-style: oblique;
+}
+#anime {
+  width:500px;
+  height:300px
+}
+ h3 {
+  color: white;
+  font-size:20px;
+  font-style: oblique;
+}
+
+body {
+  background-color: lightblue;
+
+}
